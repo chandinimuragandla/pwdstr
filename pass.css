@@ -1,0 +1,23 @@
+body {
+    background: rgb(56, 165, 255);padding: 0 24px;height: 100vh;display: flex;justify-content: center;align-items: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.very-weak {
+    color: rgb(233, 4, 4);
+}
+
+.weak {
+    color: rgb(245, 161, 7);
+}
+
+.medium {
+    color: rgb(222, 222, 3);
+    background-color: rgb(178, 174, 174);
+}
+
+.strong {
+    color: rgb(19, 181, 19);
+}
+
+.very-strong {
+    color: rgb(2, 112, 2);
+}
